@@ -1,6 +1,6 @@
 ## Olá! 👋 Eu Sou o Ismael!
 ## 📚 Sobre Mim
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Universidade São Francisco
+- 🎓 Cursando **Engenharia de Software** na Universidade São Francisco
 - 🌱 Atualmente focando em **Java** e desenvolvimento **Back-End**
 - 🖥️ Amante de tecnologia e programação
   

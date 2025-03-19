@@ -5,7 +5,6 @@
 - 🖥️ Amante de tecnologia e programação
   
 ## 📬 Entre em Contato
-- [LinkedIn](www.linkedin.com/in/ismael-alves)
 - [Instagram](https://www.instagram.com/ismajovi/)
 - [Email](mailto:ismael.joventino@mail.usf.edu.br)
 

@@ -7,7 +7,3 @@
 ## 📬 Entre em Contato
 - [Instagram](https://www.instagram.com/ismajovi/)
 - [Email](mailto:ismael.joventino@mail.usf.edu.br)
-
-![ismajoventino's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismajoventino&show_icons=true&theme=tokyonight)
-
-Obrigado por visitar meu perfil! 🌟

@@ -3,7 +3,7 @@
 **Software Engineering Student**
 
 - 💻 Currently focusing on **Java & Spring** for backend development
-- 📚 Resuming my programming studies with renewed energy
+- 📚 Resuming my programming studies
 
 ---
 
